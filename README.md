@@ -22,7 +22,7 @@ Therefor i have given more emphasis on SSD Model with MobileNetV3 large as backb
 * The pretrained model separately trained with **Mosaic Augmentation** but i have trained for **40 EPOCHS** and got **0.39MAP**. Model performance can be further improved by for more epochs.
 
 ## Deployment
-* Model is deployed to Heroku using Flask.
+* Model is deployed to **Heroku** using Flask.
 * Using REST API i have developed an android application, where user can capture picture from camera and can detect mask.
 * Another android applicatoin is developed where The **Pytorch scripted model** is deployed on device.
 * Check out the URLS below for above repos.
