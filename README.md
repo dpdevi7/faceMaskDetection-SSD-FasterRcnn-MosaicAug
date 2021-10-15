@@ -23,8 +23,8 @@ Therefor i have given more emphasis on SSD Model with MobileNetV3 large as backb
 
 ## Deployment
 * Model is deployed to **Heroku** using Flask.
-* Using REST API i have developed an android application, where user can capture picture from camera and can detect mask.
-* Another android applicatoin is developed where The **Pytorch scripted model** is deployed on device.
+* Using REST API i have developed an **android application** , where user can capture picture from camera and can detect mask.
+* Another **android application** is developed where The **Pytorch scripted model** is deployed on device.
 * Check out the URLS below for above repos.
 
 ## Other Repo URLS
