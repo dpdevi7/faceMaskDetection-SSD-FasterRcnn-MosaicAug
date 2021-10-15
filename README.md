@@ -30,4 +30,5 @@ Therefor i have given more emphasis on SSD Model with MobileNetV3 large as backb
 ## Other Repo URLS
 * Android Application using Heroku Rest API - https://github.com/green93/FaceMaskDetectionHerokuApiMVP
 * Android Application using pytorch scripted model - https://github.com/green93/FaceMaskDetectionAndroidPytorch
-* Heroku API - https://github.com/green93/facemask-detection-heroku
+* Heroku API Repo - https://github.com/green93/facemask-detection-heroku
+* Rest API - https://facemask-detection-api.herokuapp.com/predict
