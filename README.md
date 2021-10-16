@@ -16,7 +16,7 @@
 * Pytorch
 
 ## Implementation Details
-* The Main motivation in developing Facemask Detection is to deploy model in mobile Device and Heroku therefor i need to reduce the detection latency low as possible.
+* The Main motivation in developing Facemask Detection is to deploy model in mobile Device and Heroku therefor i need to reduce the detection latency low as possible while keeping decent **MAP**.
 Therefor i have given more emphasis on SSD Model with MobileNetV3 large as backbone. 
 * I trained pytorch pretraind ssd_mobilenet_v3_large object detection model with heavy augmentation, given **0.38 MAP**. The Model was trained for above **100 epochs**. 
 * The pretrained model separately trained with **Mosaic Augmentation** but i have trained for **40 EPOCHS** and got **0.39MAP**. Model performance can be further improved by for more epochs.
