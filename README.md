@@ -25,7 +25,7 @@ Therefor i have given more emphasis on SSD Model with MobileNetV3 large as backb
 * Model is deployed to **Heroku** using Flask.
 * Using REST API i have developed an **android application** , where user can capture picture from camera and can detect mask.
 * Another **android application** is developed where The **Pytorch scripted model** is deployed on device.
-* Check out the URLS below for above repos.
+* Check out the URLS below for related repos.
 
 ## Other Repo URLS
 * Android Application using Heroku Rest API - https://github.com/green93/FaceMaskDetectionHerokuApiMVP
